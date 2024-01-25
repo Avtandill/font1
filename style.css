@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "iowan";
+    src: url("fonts/Iowan\ Old\ Style\ Regular.otf")
+}
+@font-face {
+    font-family: "TT";
+    src: url("fonts/OldStandardTT-Regular.ttf")
+}
+
+h1 {
+    font-size: 20px;
+    font-family: "iowan";
+}
+p {
+    font-size: 16px;
+    font-family: "TT";
+}
